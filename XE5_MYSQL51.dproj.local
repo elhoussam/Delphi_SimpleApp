@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/10 10:54:27.000.325,=C:\Users\Administrateur\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/10 10:54:44.000.730,C:\Users\Administrateur\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5.dproj</Transaction>
+    <Transaction>2019/05/10 10:55:01.000.490,C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5.dproj=C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5_MYSQL51.dproj</Transaction>
+    <Transaction>2019/05/10 10:55:56.000.553,C:\Users\Administrateur\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5MYSQL51\Main.dfm</Transaction>
+    <Transaction>2019/05/10 10:55:56.000.553,C:\Users\Administrateur\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5MYSQL51\Main.pas</Transaction>
+    <Transaction>2019/05/10 10:56:31.000.522,=C:\Users\Administrateur\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/10 10:56:46.000.106,C:\Users\Administrateur\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Administrateur\Documents\RAD Studio\Projects\Connection.dfm</Transaction>
+    <Transaction>2019/05/10 10:56:46.000.106,C:\Users\Administrateur\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Administrateur\Documents\RAD Studio\Projects\Connection.pas</Transaction>
+    <Transaction>2019/05/10 10:56:52.000.147,C:\Users\Administrateur\Documents\RAD Studio\Projects\Connection.pas=C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5MYSQL51\Connection.pas</Transaction>
+    <Transaction>2019/05/10 10:56:52.000.147,C:\Users\Administrateur\Documents\RAD Studio\Projects\Connection.dfm=C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5MYSQL51\Connection.dfm</Transaction>
+    <Transaction>2019/05/10 10:58:10.000.022,C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5_MYSQL51.dproj=C:\Users\Administrateur\Documents\RAD Studio\Projects\XE5MYSQL51\XE5_MYSQL51.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
