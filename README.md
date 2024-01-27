@@ -12,3 +12,5 @@
 - Sum all Debit and Credit, when you apply the filter
 
 devoloped Using Delphi XE5 et Mysql 5.1
+
+its was for a job offre, i did applied for on [Offre](https://naltis.com/exercice_soft.pdf)
